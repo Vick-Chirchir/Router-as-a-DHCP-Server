@@ -28,8 +28,8 @@ DHCP Server Config on the Router(Router 1):  <br/>
 <img src="https://i.imgur.com/okCHFdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Switch Trunk Config: <br/>
-<img src="https://i.imgur.com/7ft9rDM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Interface Config with Loopback interface as the IP address to the DHCP Server: <br/>
+<img src="https://i.imgur.com/8QABK5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP Server Pool Config:  <br/>
