@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
 This project demonstrates how to configure a Cisco router as a DHCP server to dynamically assign IP addresses to multiple devices across two different network segments—Site A and Site B—within a Packet Tracer lab simulation. 
-This project highlights my ability to deploy scalable and dynamic IP addressing across a multi-site enterprise network using Cisco devices, suitable for real-world branch-office scenarios.
+This project showcases my ability to deploy scalable and dynamic IP addressing across a multi-site enterprise network using Cisco devices, making it suitable for real-world branch-office scenarios.
 <br />
 
 
@@ -24,8 +24,8 @@ Network Design: <br/>
 <img src="https://i.imgur.com/tmzOwfB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Switch Switchport Config (voice and data vlans):  <br/>
-<img src="https://i.imgur.com/KM1jzOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Server Config on the Router(Router 1):  <br/>
+<img src="https://i.imgur.com/okCHFdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Switch Trunk Config: <br/>
