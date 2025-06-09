@@ -32,16 +32,12 @@ Interface Config with Loopback interface as the IP address to the DHCP Server: <
 <img src="https://i.imgur.com/8QABK5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP Server Pool Config:  <br/>
-<img src="https://i.imgur.com/Jb0naBo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Router Configuration (Router 2) using (ip helper-address):  <br/>
+<img src="https://i.imgur.com/uH3Mw58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router on a Stick) using (ip helper-address:  <br/>
-<img src="https://i.imgur.com/zpn4ucK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Verify Communication between VLAN 10,20,30:  <br/>
-<img src="https://i.imgur.com/kzTsRjw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify Communication between Devices on both Sites:  <br/>
+<img src="https://i.imgur.com/wdv5L5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
