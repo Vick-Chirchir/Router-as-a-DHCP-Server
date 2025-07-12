@@ -21,23 +21,23 @@ This project showcases my ability to deploy scalable and dynamic IP addressing a
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/tmzOwfB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tmzOwfB.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP Server Config on the Router(Router 1):  <br/>
-<img src="https://i.imgur.com/okCHFdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/okCHFdZ.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Interface Config with Loopback interface as the IP address to the DHCP Server: <br/>
-<img src="https://i.imgur.com/8QABK5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QABK5s.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify Communication between Devices on both Sites:  <br/>
-<img src="https://i.imgur.com/wdv5L5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wdv5L5x.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
